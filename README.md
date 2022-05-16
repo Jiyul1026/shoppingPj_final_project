@@ -4,7 +4,7 @@
 [![Video Label](http://img.youtube.com/vi/jlEddtRgM8g/0.jpg)](https://youtu.be/jlEddtRgM8g)
 
 ## 최종 ppt
-
+https://github.com/Jiyul1026/shoppingPj_final_project/blob/master/SMARTDC.pdf
 
 
 ## information
