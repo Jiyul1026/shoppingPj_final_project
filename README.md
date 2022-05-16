@@ -9,7 +9,7 @@ https://github.com/Jiyul1026/shoppingPj_final_project/blob/master/SMARTDC.pdf
 
 ## information
 기간: 2022.03.14 ~ 2022.04.15<br>  
-인원: 6명
+인원: 이동건, 곽지용, 박채연, 김지율, 박정은, 정영호
 
 
 ## Language
