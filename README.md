@@ -1,4 +1,4 @@
-
+스프링/ 디지털기기쇼핑몰 / spirng legacy, mysql, mybatis 를 이용 
 
 ## 최종 시연 영상
 [![Video Label](http://img.youtube.com/vi/jlEddtRgM8g/0.jpg)](https://youtu.be/jlEddtRgM8g)
